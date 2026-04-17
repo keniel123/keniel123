@@ -22,10 +22,6 @@ PhD Researcher in AI at the University of Southampton (UKRI MINDS CDT). I work o
 - **Automated negotiation agent:**
   https://github.com/keniel123/automated-negotiation-agent
 
-### Open to roles
-
-I’m open to **ML Research** / **ML Engineer** opportunities.
-
 ### Contact
 
 - Email: **peartkeniel@gmail.com**
